@@ -1,5 +1,8 @@
 package code.Notes;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 import java.util.Scanner;
 
 public class NotenRechnen {
